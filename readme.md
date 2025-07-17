@@ -46,7 +46,7 @@ Sketchify/
 ![Output Example 1](Screenshots/Output1.png)
 
 🖼️ Sketch Output Example 2  
-![Output Example 2](Screenshots/Output2.png)
+![Output Example 2](Screenshots/output2.png)
 
 ---
 
