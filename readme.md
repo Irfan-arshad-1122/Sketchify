@@ -1,27 +1,64 @@
-# 🖼️ Sketchify - Image to Sketch Converter
+# 🎨 Sketchify - Image to Sketch Converter
 
-Sketchify is a lightweight web application that transforms any image into a pencil sketch using OpenCV. Built with Flask, it's a beginner-friendly project that introduces computer vision, image processing, and web development.
-
----
-
-## 🔍 Features
-
-- Upload an image in JPG/PNG format
-- Real-time sketch conversion using OpenCV
-- Download the sketch result
-- Simple and intuitive UI
+Sketchify is a lightweight web application that transforms your images into beautiful pencil sketches using OpenCV and Flask. Perfect for learning computer vision and web deployment basics.
 
 ---
 
-## 🚀 Demo
+## 🚀 Features
 
-> 📷 **Upload Page:**
-> ![Upload Page Screenshot](screenshots/upload_page.png)
-
-> ✏️ **Sketch Result Page:**
-> ![Sketch Result Screenshot](screenshots/sketch_result.png)
+- 📤 Upload an image (JPG or PNG)
+- ✏️ Convert it to a pencil sketch using OpenCV
+- 💾 Download the sketched image
+- 🖥️ Simple, fast, and user-friendly interface
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
+Sketchify/
+├── static/
+│   ├── Outputs
+|   └──uploads
+├── templates/
+│   └── index.html
+├── Screenshots/
+│   ├── S1.png
+│   ├── S2.png
+│   ├── Output1.png
+│   └── Output2.png
+├── app.py
+├── sketch_processor.py
+├── requirements.txt
+└── README.md
 
+---
+
+## 🔍 Demo
+
+🏠 Homepage
+![Alt Text](relative/Scrennshots/S1.png)
+
+📤 Image Upload Page
+![Alt Text](relative/Scrennshots/S2.png)
+
+🖼️ Sketch Output Example 1
+![Alt Text](relative/Scrennshots/Output1.png)
+
+🖼️ Sketch Output Example 2
+![Alt Text](relative/Scrennshots/output2.png)
+
+---
+
+## 📦 Requirements
+
+Python 3.8+
+
+Flask
+
+OpenCV (cv2)
+
+---
+
+##  🙋‍♂️ Author
+
+Irfan Arshad
+GitHub: @Irfan-arshad-1122
