@@ -13,11 +13,12 @@ Sketchify is a lightweight web application that transforms your images into beau
 
 ---
 
-## 📁 Project Structure
+```
+📁 Project Structure
 Sketchify/
 ├── static/
 │   ├── Outputs
-|   └──uploads
+│   └── uploads
 ├── templates/
 │   └── index.html
 ├── Screenshots/
@@ -29,22 +30,23 @@ Sketchify/
 ├── sketch_processor.py
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
 ## 🔍 Demo
 
-🏠 Homepage
-![Alt Text](relative/Scrennshots/S1.png)
+🏠 Homepage  
+![Homepage Screenshot](Screenshots/S1.png)
 
-📤 Image Upload Page
-![Alt Text](relative/Scrennshots/S2.png)
+📤 Image Upload Page  
+![Upload Page Screenshot](Screenshots/S2.png)
 
-🖼️ Sketch Output Example 1
-![Alt Text](relative/Scrennshots/Output1.png)
+🖼️ Sketch Output Example 1  
+![Output Example 1](Screenshots/Output1.png)
 
-🖼️ Sketch Output Example 2
-![Alt Text](relative/Scrennshots/output2.png)
+🖼️ Sketch Output Example 2  
+![Output Example 2](Screenshots/Output2.png)
 
 ---
 
